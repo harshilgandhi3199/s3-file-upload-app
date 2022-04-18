@@ -1,0 +1,14 @@
+{
+    "Item": {
+        "input_text": {
+            "S": "this is a test"
+        },
+        "input_file_path": {
+            "S": "file-upload-project-storage/test2.txt"
+        }
+    },
+    "ConsumedCapacity": {
+        "TableName": "file-upload-project-db",
+        "CapacityUnits": 0.5
+    }
+}
