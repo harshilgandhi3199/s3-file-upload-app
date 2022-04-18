@@ -19,7 +19,7 @@ This will start the server in the browser using the local host. Upon inserting t
 
 ```bash
 cd script
-bash task.sh [id] // id should be present in the DynamoDB
+bash task.sh [id]
 ```
 
 for example,
